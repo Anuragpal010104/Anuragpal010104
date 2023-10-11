@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 [![Anuragpal01's GitHub | Stats](https://stats.quine.sh/Anuragpal01/github?theme=light)](https://quine.sh)
 
 <h1>All About Hacktoberfest 2023 </h1>
-[![@anuragpal010104's Holopin badges](https://holopin.me/anuragpal010104)](https://holopin.io/@anuragpal010104)
+[![@anuragpal010's Holopin badges](https://holopin.me/anuragpal0101)](https://holopin.io/@anuragpal0101)
+[![An image of @anuragpal010104's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragpal010104)](https://holopin.io/@anuragpal010104)
 
 
