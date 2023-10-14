@@ -5,7 +5,7 @@
 **Anuragpal010104/Anuragpal010104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+
 
 🎓 I am a sophomore at IIT Lucknow pursuing Computer Science. <br>
 👀 I’m interested in Open Source, Web Development <br>
