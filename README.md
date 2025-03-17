@@ -7,7 +7,7 @@
 
 
 
-🎓 I am a sophomore at IIT Lucknow pursuing Computer Science. <br>
+🎓 I am a Pre-Final year student at IIT Lucknow pursuing Computer Science. <br>
 👀 I’m interested in Open Source, Web Development <br>
 💬 I would love to talk about internship opportunities. <br>
 💞️ I’m looking to collaborate on any open source platform. <br>
